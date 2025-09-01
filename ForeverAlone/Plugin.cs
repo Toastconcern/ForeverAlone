@@ -14,6 +14,7 @@ namespace ForeverAlone
 	{
         GameObject friends;
         GameObject joins;
+
         void Start()
 		{
             GorillaTagger.OnPlayerSpawned(OnGameInitialized);
