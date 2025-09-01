@@ -4,11 +4,6 @@ using UnityEngine;
 
 namespace ForeverAlone
 {
-	/// <summary>
-	/// This is your mod's main class.
-	/// </summary>
-
-
 	[BepInPlugin(PluginInfo.GUID, PluginInfo.Name, PluginInfo.Version)]
 	public class Plugin : BaseUnityPlugin
 	{
